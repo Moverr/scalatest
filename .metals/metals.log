@@ -1,0 +1,33 @@
+INFO  time: initialize in 0.42s
+WARN  no build tool detected in workspace 'D:\projects\scalatest'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_programming.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala
+WARN  no build target: D:\projects\scalatest\scala_flow.scala

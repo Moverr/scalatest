@@ -11,10 +11,13 @@ for(num:Int <- Array.range(1,5)){
 
 println("\nEven Number \n ")
 for(num:Int <- Array.range(0,20)){
+    var label:String = "";
   if(num % 2  == 0 ){
-      var label:String = s"${num} is an Even Number "
-      println(label);
+        label = s"${num} is an Even Number " ;
+  }else{
+    label = s"${num} is an Odd Number " ;
   }
+  println(label);
 }
 
 
